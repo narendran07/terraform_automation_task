@@ -78,3 +78,9 @@
      service:narendran07-patch-1narendran07-patch-1play.yml
          name: icinga2
          state: restarted
+
+
+
+
+REF:
+https://www.vultr.com/docs/how-to-install-icinga-2-and-icinga-web-2-on-centos-7
